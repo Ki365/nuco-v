@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nuco-v-rescue")(type "KiCad")(uri "${KIPRJMOD}/nuco-v-rescue.kicad_sym")(options "")(descr ""))
+)
